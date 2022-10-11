@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying Electrical and Computer Engineering Student at Aristotle University of Thessaloniki<br>🛠️ I’m working on a startup business, ORANA (orana.gr).<br>
+📚 I’m currently studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>🛠️ I’m working on a startup business, ORANA (orana.gr).<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=giannisgkountras&icon=2&color=0)](https://visitcount.itsvg.in)
+
