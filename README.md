@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>🛠️ I’m working on a startup business, ORANA (orana.gr).<br>
+📚 I’m currently studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>🛠️ I’m a software developer at VROOM (@VROOM-AUTH), a student team in my university.<br>
 
 
 ## 🌐 Socials:
