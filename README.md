@@ -1,6 +1,8 @@
 # 💫 About Me:
 📚 I’m currently studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>🛠️ I’m a software developer at VROOM (@VROOM-AUTH), a student team in my university.<br>
 
+Visit my [website](https://giannisgkountras.netlilfy.app) to view all of my projects!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannis-gkountras) 
